@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tviki/Documents/Unreal Projects/GetTheHellOfMyRoom/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/tviki/Documents/Unreal Projects/GetTheHellOfMyRoom/Content/StarterContent/Maps/FirstLevel.umap",
+				"C:/Users/tviki/Documents/Unreal Projects/GetTheHellOfMyRoom/Content/StarterContent/Player/Player.uasset",
+				"C:/Users/tviki/Documents/Unreal Projects/GetTheHellOfMyRoom/Content/StarterContent/Player/NewBlueprint.uasset",
+				"C:/Users/tviki/Documents/Unreal Projects/GetTheHellOfMyRoom/Content/StarterContent/Player/PlayerPawn.uasset",
+				"C:/Users/tviki/Documents/Unreal Projects/GetTheHellOfMyRoom/Content/StarterContent/Player/CustomPlayerController.uasset",
+				"C:/Users/tviki/Documents/Unreal Projects/GetTheHellOfMyRoom/Content/StarterContent/Player/CustomPlayerGameMode.uasset",
+				"C:/Users/tviki/Documents/Unreal Projects/GetTheHellOfMyRoom/Content/StarterContent/Player/EnemyActor.uasset",
+				"C:/Users/tviki/Documents/Unreal Projects/GetTheHellOfMyRoom/Content/StarterContent/Maps/StarterMap.umap",
+				"C:/Users/tviki/Documents/Unreal Projects/GetTheHellOfMyRoom/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"C:/Users/tviki/Documents/Unreal Projects/GetTheHellOfMyRoom/Content/StarterContent/Maps/Advanced_Lighting.umap",
+				"C:/Users/tviki/Documents/Unreal Projects/GetTheHellOfMyRoom/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/tviki/Documents/Unreal Projects/GetTheHellOfMyRoom/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset",
+				"C:/Users/tviki/Documents/Unreal Projects/GetTheHellOfMyRoom/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/tviki/Documents/Unreal Projects/GetTheHellOfMyRoom/Content/StarterContent/Player/PlayerController.uasset"
+			]
+		}
+	]
+}
